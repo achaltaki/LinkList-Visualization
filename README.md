@@ -3,4 +3,4 @@ Linked List Data Structure animated with javascript. This is not an implementati
   Supported dynamic visual representation of linked list creation, insertion, deletion, and traversal.
   Included step-by-step animations to demonstrate pointer movements and node operations.
  Provided user-friendly controls for customizing node values and list configurations.
- Technologies Used: Implemented using\textbf{ JavaScript, HTML, and CSS}.
+ Technologies Used: Implemented using  JavaScript, HTML, and CSS.
